@@ -2,26 +2,26 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "src/*": [
-        "src/*"
+      "docs/*": [
+        "docs/*"
       ],
       "app/*": [
         "*"
       ],
       "components/*": [
-        "src/components/*"
+        "docs/components/*"
       ],
       "layouts/*": [
-        "src/layouts/*"
+        "docs/layouts/*"
       ],
       "pages/*": [
-        "src/pages/*"
+        "docs/pages/*"
       ],
       "assets/*": [
-        "src/assets/*"
+        "docs/assets/*"
       ],
       "boot/*": [
-        "src/boot/*"
+        "docs/boot/*"
       ],
       "vue$": [
         "node_modules/vue/dist/vue.runtime.esm-bundler.js"
